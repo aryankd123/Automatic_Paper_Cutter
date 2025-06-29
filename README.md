@@ -19,8 +19,6 @@ The design was modeled in CAD and analyzed for motion efficiency and precision. 
 - Mechanism: 4-slot Geneva wheel driven by a continuous rotating shaft
 
 ## 📂 Project Structure
-
-- `/cad_model/` – contains the design files (IGES/STL format)
 - `/ppt/` – contains MATLAB files for motion analysis
 
 
