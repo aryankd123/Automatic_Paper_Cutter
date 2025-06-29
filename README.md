@@ -29,14 +29,6 @@ The design was modeled in CAD and analyzed for motion efficiency and precision. 
 - Paper cutting in manufacturing industries
 - Film, tape, or sheet material cutting with timing precision
 
-## 📸 Screenshots
-
-
-
-## 🤝 Credits
-
-Developed by Aryan & Atharv Prakash Wankhade, IIT Guwahati  
-
 
 ## 📜 License
 
